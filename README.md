@@ -38,7 +38,7 @@ git clone https://github.com/zidansec/CrimeFlare.git
 cd CrimeFlare
 ```
 
-- Kemudian tools
+- Kemudian jalankan tools
 
 ```
 php crimeflare.php exemple.com
