@@ -1,5 +1,9 @@
 # CrimeFlare Bypass Hostname
 
+> Alat untuk melihat IP asli dibalik website yang telah dilindungi CloudFlare.
+
+![CrimeFlare](http://host.xploit.my.id/api/crimeflare.png)
+
 ## Introduction
 
 > Alat ini berfungsi untuk melakukan pencarian IP asli di balik website yang telah dilindungi oleh CloudFlare, informasi yang di hasilkan dapat berguna untuk melakukan penetrasi lebih lanjut. Informasi yang dihasilkan oleh alat ini sebagai berikut.
