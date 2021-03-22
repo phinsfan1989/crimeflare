@@ -23,7 +23,7 @@ This tool can help you to see the real IP behind CloudFlare protected websites.
         }
 
 $ch = curl_init();
-curl_setopt($ch, CURLOPT_URL,"http://host.xploit.my.id/api/crimeflare.php?url=".htmlspecialchars(addslashes($url)).""); 
+curl_setopt($ch, CURLOPT_URL,"https://api.xploit.my.id/v1/crimeflare.php?url=".htmlspecialchars(addslashes($url)).""); 
 curl_setopt($ch, CURLOPT_POST, 1); 
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true); 
 $exec = curl_exec($ch);
