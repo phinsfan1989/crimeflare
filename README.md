@@ -2,7 +2,7 @@
 
 > Alat untuk melihat IP asli dibalik website yang telah dilindungi CloudFlare.
 
-![CrimeFlare](https://api.xploit.my.id/v1/crimeflare.png)
+![CrimeFlare](https://api.xploit.my.id/v1/CrimeFlareV1.1.png)
 
 ## Introduction
 
@@ -24,7 +24,7 @@
 
 ## API Yang Digunakan Pada Alat Ini
 
-- https://api.xploit.my.id/v1/crimeflare.php?url=exemple.com
+- http://www.crimeflare.org:82/
 
 - http://ipinfo.io/134.22.52.1.2/json
 
