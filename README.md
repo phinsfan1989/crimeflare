@@ -25,7 +25,7 @@
 ## API Yang Digunakan Pada Alat Ini
 
 - http://www.crimeflare.org:82/
-- https://api.xploit.my.id/v1/test.php?url=exemple.com
+- http://api.xploit.my.id/v1/crimeflare.php?url=exemple.com
 - http://ipinfo.io/134.22.52.1.2/json
 
 ## Installation
