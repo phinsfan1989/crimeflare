@@ -1,4 +1,6 @@
 # These are supported funding model platforms
 
 github: [zidansec, subangxploits]
+patreon: zidansec
+tidelift: npm/octo-package
 custom: ['https://xploit.my.id', 'https://xploit.my.id/tools/cloudflarebypass']
