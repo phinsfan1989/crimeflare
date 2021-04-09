@@ -42,8 +42,10 @@ git clone https://github.com/zidansec/CrimeFlare.git
 cd CrimeFlare
 ```
 
-- Kemudian jalankan tools
+```
+sudo apt-get install php-curl
+```
 
 ```
-php crimeflare.php exemple.com
+php crimeflare.php
 ```
