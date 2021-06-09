@@ -2,7 +2,7 @@
 
 > Alat untuk melihat IP asli dibalik website yang telah dilindungi CloudFlare.
 
-![CrimeFlare](https://api.xploit.my.id/v1/CrimeFlareV1.1.png)
+![CrimeFlare](https://repository-images.githubusercontent.com/350108196/e6fe2280-968a-11eb-82a0-48a9b9d38e27)
 
 ## Introduction
 
