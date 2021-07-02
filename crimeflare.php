@@ -9,8 +9,8 @@ if(!empty($_GET['url'])){
          die("
 \033[0;36m       __     
 \033[0;36m    __(  )_   \033[1;97m\033[4;37mCloudFlare Bypass Hostname\e[0;0m \033[4;31mV1.1\e[0;0m
-\033[0;36m __(       )_   \e[0;0mAuthor : zidansec
-\033[0;36m(____________)  \e[0;0mContact: go@zidansec.me
+\033[0;36m __(       )_   \e[0;0mAuthor : zidansec (Chemod-77)
+\033[0;36m(____________)  \e[0;0mContact: zidansec@gmail.com
                 Sites  : https://go.zidansec.me
 
 \033[45m-------------------------------\e[0;0m[\e[0m\e[1;91m NOTES \e[0;0m]\033[45m---------------------------------------\e[0;0m
@@ -34,8 +34,8 @@ curl_close ($ch);
 $alert = "
 \033[0;36m       __     
 \033[0;36m    __(  )_   \033[1;97m\033[4;37mCloudFlare Bypass Hostname\e[0;0m \033[4;31mV1.1\e[0;0m
-\033[0;36m __(       )_   \e[0;0mAuthor : zidansec
-\033[0;36m(____________)  \e[0;0mContact: go@zidansec.me
+\033[0;36m __(       )_   \e[0;0mAuthor : zidansec (Chemod-77)
+\033[0;36m(____________)  \e[0;0mContact: zidansec@gmail.com
                 Sites  : https://go.zidansec.me
 
 \033[45m-------------------------------\e[0;0m[\e[0m\e[1;91m ALERT \e[0;0m]\033[45m---------------------------------------\e[0;0m
