@@ -11,7 +11,7 @@ if(!empty($_GET['url'])){
 \033[0;36m    __(  )_   \033[1;97m\033[4;37mCloudFlare Bypass Hostname\e[0;0m \033[4;31mV1.1\e[0;0m
 \033[0;36m __(       )_   \e[0;0mAuthor : zidansec (Chemod-77)
 \033[0;36m(____________)  \e[0;0mContact: zidansec@gmail.com
-                Sites  : https://go.zidansec.me
+                Sites  : https://www.xploit.my.id
 
 \033[45m-------------------------------\e[0;0m[\e[0m\e[1;91m NOTES \e[0;0m]\033[45m---------------------------------------\e[0;0m
 
@@ -36,7 +36,7 @@ $alert = "
 \033[0;36m    __(  )_   \033[1;97m\033[4;37mCloudFlare Bypass Hostname\e[0;0m \033[4;31mV1.1\e[0;0m
 \033[0;36m __(       )_   \e[0;0mAuthor : zidansec (Chemod-77)
 \033[0;36m(____________)  \e[0;0mContact: zidansec@gmail.com
-                Sites  : https://go.zidansec.me
+                Sites  : https://www.xploit.my.id
 
 \033[45m-------------------------------\e[0;0m[\e[0m\e[1;91m ALERT \e[0;0m]\033[45m---------------------------------------\e[0;0m
 ";
@@ -58,7 +58,7 @@ if(!empty($exec)) {
     preg_match('/(\d*\.\d*\.\d*\.\d*)/', $exec, $ip);
     if(empty($ip[1])){
         exit("$alert
-\033[1;92m    -\e[0;0m Tidak dapat mendeteksi alamat \033[1;97mIP\e[0;0m dari (\033[1;97m\033[4;37m".htmlspecialchars(addslashes($url))."\e[0;0m)
+\033[1;92m    -\e[0;0m Unable to detect \033[1;97mIP\e[0;0m address from (\033[1;97m\033[4;37m".htmlspecialchars(addslashes($url))."\e[0;0m)
         \n"); 
     }
     $get = json_decode(file_get_contents("http://ipinfo.io/$ip[1]/json?token=51a986ffa5ddb1"));
@@ -77,7 +77,7 @@ if(!empty($exec)) {
         \n");
     } else {
         echo "$alert
-\033[1;92m    -\e[0;0m \e[0;0m \033[4;31mSepertinya ada masalah pada jaringan anda!\e[0;0m\n
+\033[1;92m    -\e[0;0m \e[0;0m \033[4;31mThere seems to be a problem with your network!\e[0;0m\n
         \n";
     }
     
