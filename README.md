@@ -25,10 +25,9 @@
 ## API Used In This Tool
 
 - http://www.crimeflare.org:82/
-- https://api.xploit.my.id/v1/crimeflare.php?url=
 - http://ipinfo.io/134.22.52.1.2/json
 
-## Installation
+## Installation : https://www.xploit.my.id/2021/07/crimeflare-bypass-tools-cloudflare.html
 
 - Cloning the repository below
 
