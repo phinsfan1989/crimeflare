@@ -18,7 +18,7 @@ if(!empty($_GET['url'])){
 This tool can help you to see the real \033[1;97m\033[4;37mIP\e[0;0m behind \033[1;97m\033[4;37mCloudFlare\e[0;0m protected websites.
 
 \033[1;92m  - \033[1;97mHow do I run it?\e[0;0m
-\033[1;92m  - \033[1;97mCommand: php crimeplare.php exemple.com\e[0;0m
+\033[1;92m  - \033[1;97mCommand: php crimeflare.php exemple.com\e[0;0m
  
          \n"); 
         }
